@@ -1,0 +1,7 @@
+uuid,template,srvName,customCpu,customMem,ipv4Addr,ipv4Mask,ipv4Gw,epgName,bdName,packProfile
+30041,Template-18-04-1LTS,FRONT1,2,2048,10.1.2.220,24,10.1.2.254,FRONT,BD01,apacheProf
+30042,Template-18-04-1LTS,FRONT2,2,2048,10.1.2.221,24,10.1.2.254,FRONT,BD01,apacheProf
+30043,Template-18-04-1LTS,APP1,2,2048,10.1.2.222,24,10.1.2.254,APP,BD02,tomcatProf
+30044,Template-18-04-1LTS,APP2,2,2048,10.1.2.223,24,10.1.2.254,APP,BD02,tomcatProf
+34005,Template-18-04-1LTS,BD1,2,2048,10.1.2.224,24,10.1.2.254,BD,BD03,postGresProf
+30046,Template-18-04-1LTS,BD2,2,2048,10.1.2.225,24,10.1.2.254,BD,BD03,postGresProf

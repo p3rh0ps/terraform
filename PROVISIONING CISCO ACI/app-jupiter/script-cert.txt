@@ -1,0 +1,1 @@
+openssl req -new -newkey rsa:1024 -days 36500 -nodes -x509 -keyout Hamster.key -out Hamster.crt -subj '/CN=Hamster/O=Burrow/C=Io'

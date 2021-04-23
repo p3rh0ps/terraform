@@ -1,0 +1,1 @@
+openssl req -new -newkey rsa:1024 -days 36500 -nodes -x509 -keyout Rabbit.key -out Rabbit.crt -subj '/CN=Rabbit/O=Burrow/C=Io'
